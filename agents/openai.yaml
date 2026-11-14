@@ -1,0 +1,4 @@
+interface:
+  display_name: "黄白设计"
+  short_description: "把普通随拍分步制作成有层次的海报，优先自然数字拼贴与高反差摄影构成"
+  default_prompt: "使用 $huangbai-design，把我上传的照片按适合的风格多步制作成海报，并保留原图、过程图和成品。"

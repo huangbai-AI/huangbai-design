@@ -1,0 +1,138 @@
+[
+  {
+    "id": "plant-natural",
+    "name": "自然数字拼贴",
+    "status": "实际多步",
+    "stage_count": 4,
+    "source": "https://www.xiaohongshu.com/explore/6ad1e6cb0000000018010af2",
+    "history": "cases/plant-natural/history.md"
+  },
+  {
+    "id": "plant-contrast",
+    "name": "高反差摄影构成",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6ad19b920000000015014857",
+    "history": "cases/plant-contrast/history.md"
+  },
+  {
+    "id": "new-01",
+    "name": "金梨雕刻",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6ad5af32000000002600ab11",
+    "history": "cases/new-01/history.md"
+  },
+  {
+    "id": "new-02",
+    "name": "面包烙印",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6ad5af32000000002600ab11",
+    "history": "cases/new-02/history.md"
+  },
+  {
+    "id": "new-03",
+    "name": "向日葵半调拼贴",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6abb9dc2000000001501592d",
+    "history": "cases/new-03/history.md"
+  },
+  {
+    "id": "new-04",
+    "name": "枯树记忆界面",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6abb9dc2000000001501592d",
+    "history": "cases/new-04/history.md"
+  },
+  {
+    "id": "new-05",
+    "name": "雁阵拓印",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6ad961530000000031024a96",
+    "history": "cases/new-05/history.md"
+  },
+  {
+    "id": "new-06",
+    "name": "灯影拓印",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6ad961530000000031024a96",
+    "history": "cases/new-06/history.md"
+  },
+  {
+    "id": "new-07",
+    "name": "桂花杂色颗粒",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6abc807e000000001c00faae",
+    "history": "cases/new-07/history.md"
+  },
+  {
+    "id": "new-08",
+    "name": "银杏秋日颗粒",
+    "status": "实际多步",
+    "stage_count": 3,
+    "source": "https://www.xiaohongshu.com/explore/6abc807e000000001c00faae",
+    "history": "cases/new-08/history.md"
+  },
+  {
+    "id": "alternative-1",
+    "name": "01｜双色半调网屏",
+    "status": "历史单步；新多步方案未验证",
+    "stage_count": 1,
+    "source": "https://www.xiaohongshu.com/user/profile/59a82d2a50c4b424c2340d72/6a0580260000000035023b8d",
+    "history": "cases/alternatives/history.md"
+  },
+  {
+    "id": "alternative-2",
+    "name": "02｜柔焦弥散",
+    "status": "历史单步；新多步方案未验证",
+    "stage_count": 1,
+    "source": "https://www.xiaohongshu.com/user/profile/59a82d2a50c4b424c2340d72/6a1cfd270000000035030be2",
+    "history": "cases/alternatives/history.md"
+  },
+  {
+    "id": "alternative-3",
+    "name": "03｜单色木刻版画",
+    "status": "历史单步；新多步方案未验证",
+    "stage_count": 1,
+    "source": "https://www.xiaohongshu.com/user/profile/59a82d2a50c4b424c2340d72/6a9e2ec9000000002700bdaf",
+    "history": "cases/alternatives/history.md"
+  },
+  {
+    "id": "alternative-4",
+    "name": "04｜复古像素故障",
+    "status": "历史单步；新多步方案未验证",
+    "stage_count": 1,
+    "source": "https://www.xiaohongshu.com/user/profile/59ec0b7be8ac2b4310b02830/6ad1e6cb0000000018010af2",
+    "history": "cases/alternatives/history.md"
+  },
+  {
+    "id": "favorite-D03",
+    "name": "安全出口",
+    "status": "用户标1的审美参照；安全出口精确执行日志未验证",
+    "stage_count": null,
+    "history": "cases/favorites/favorites.md",
+    "source_note": "用户在内部原工作文档中选中的审美参照，图片和同题指令保留在案例目录。"
+  },
+  {
+    "id": "favorite-B01",
+    "name": "橙色云团",
+    "status": "原档案实际两步",
+    "stage_count": 2,
+    "history": "cases/favorites/favorites.md",
+    "source_note": "用户在内部原工作文档中选中的审美参照，图片和同题指令保留在案例目录。"
+  },
+  {
+    "id": "favorite-C03",
+    "name": "屋顶红花盆栽",
+    "status": "原档案实际两步",
+    "stage_count": 2,
+    "history": "cases/favorites/favorites.md",
+    "source_note": "用户在内部原工作文档中选中的审美参照，图片和同题指令保留在案例目录。"
+  }
+]
